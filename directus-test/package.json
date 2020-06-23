@@ -1,0 +1,13 @@
+{
+  "name": "directus-test",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "gridsome-source-directus": "^0.1.1"
+  }
+}
